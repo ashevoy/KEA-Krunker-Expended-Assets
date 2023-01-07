@@ -4,3 +4,5 @@ The original Krunker Modzip is rarely updated so this project has as a goal to b
 It also contains a guide
 
 .zip file is on the releases tab
+
+current progress: sound tab done
